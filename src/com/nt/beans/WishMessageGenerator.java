@@ -9,7 +9,6 @@ public class WishMessageGenerator {
    
    public WishMessageGenerator() {
 	System.out.println("WishMessageGenerator::0-param constructor");
-	System.out.println("WishMessageGenerator::0-param constructor");
 }
    
    //setter method supporting setter Injection
